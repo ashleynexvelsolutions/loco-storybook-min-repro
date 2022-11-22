@@ -1,0 +1,1 @@
+When I try and import my Breadcrumb component into Figma it says, "1 variations across 1 components could not be rendered. Please update your Storybook codebase according to this structure and import your components from the Storybook addon again.".
